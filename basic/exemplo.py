@@ -1,0 +1,1 @@
+print("Seu último dia fácil foi ontem")
